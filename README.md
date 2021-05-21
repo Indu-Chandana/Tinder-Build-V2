@@ -1,7 +1,5 @@
 # 🌎 Hosted Online: https://tinder-clone-indu.web.app #
 
-The service will be available as usual only if I start the server.
-
 ## Frontend ## 
 #### 👉 Build with React js ####
 ## Backend ## 
