@@ -1,7 +1,5 @@
 # 🌎 Hosted Online: https://tinder-clone-indu.web.app #
 
-# 🌎 Hosted Online: https://tinder-clone-indu.web.app #
-
 ## Frontend ## 
 #### 👉 Build with React js ####
 ## Backend ## 
