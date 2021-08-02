@@ -19,8 +19,4 @@ Get: '/tinder/cards'
 
 
 
-aaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaa
+
