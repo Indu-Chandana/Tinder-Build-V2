@@ -18,5 +18,3 @@ Post: '/tinder/cards'
 Get: '/tinder/cards'
 
 
-AKAX X,SJSNXS
-JAHSNXMX
